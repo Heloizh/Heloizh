@@ -7,8 +7,8 @@
 </div>
     
 <div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python">
-  <img align="center" alt="GDScript" height="30" width="40" src="https://github.com/homarr-labs/dashboard-icons/blob/main/svg/godot.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <img align="center" alt="GDScript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg">
 </div>
  
 <br>
